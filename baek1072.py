@@ -15,7 +15,7 @@ else:
         if new > z:
             max = mid -1
         else:
-            min = mid +1
+            min = mid +2
         
 print(min)
         
